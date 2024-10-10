@@ -5,14 +5,11 @@ and Mauricio Gutierrez
 
 Video overview: <https://youtu.be/xiEOWiWo_dU>
 
-
-<a href="#scope" target="_parent">Scope</a>
-<a href="#functional-requirements" target="_parent">Functional Requirements</a>
-1. [Scope](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#scope)
-2. [Functional Requirements](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#functional-requirements)
-3. [Representation](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#representation)
-4. [Optimizations](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#optimizations)
-5. [Limitations](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#limitations)
+1. <a href="#scope" target="_parent">Scope</a>
+2. <a href="#functional-requirements" target="_parent">Functional Requirements</a>
+3. <a href="#representation" target="_parent">Representation</a>
+4. <a href="#optimizations" target="_parent">Optimizations</a>
+5. <a href="#limitations" target="_parent">Limitations</a>
 
 ## Scope
 
