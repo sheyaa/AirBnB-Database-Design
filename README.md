@@ -5,11 +5,11 @@ and Mauricio Gutierrez
 
 Video overview: <https://youtu.be/xiEOWiWo_dU>
 
-1. [Scope](#sub-heading-1)
-2. [Functional Requirements](#sub-heading-2)
-3. [Representation](#sub-heading-3)
-4. [Optomizations](#sub-heading-4)
-5. [Limitations](#sub-heading-5)
+1. [Scope](#mmarkdown-header-subheading-1)
+2. [Functional Requirements](#markdown-header-subheading-2)
+3. [Representation](#markdown-header-subheading-3)
+4. [Optimizations](#markdown-header-subheading-4)
+5. [Limitations](#markdown-header-subheading-5)
    
 ## Scope
 
