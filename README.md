@@ -5,6 +5,9 @@ and Mauricio Gutierrez
 
 Video overview: <https://youtu.be/xiEOWiWo_dU>
 
+
+<a href="#scope" target="_parent">Scope</a>
+<a href="#functional-requirements" target="_parent">Functional Requirements</a>
 1. [Scope](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#scope)
 2. [Functional Requirements](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#functional-requirements)
 3. [Representation](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#representation)
