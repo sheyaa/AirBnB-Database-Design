@@ -5,11 +5,11 @@ and Mauricio Gutierrez
 
 Video overview: <https://youtu.be/xiEOWiWo_dU>
 
-1. [Scope]([#subheading-1](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#scope))
-2. [Functional Requirements]([#subheading-2](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#functional-requirements))
-3. [Representation]([#subheading-3](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#representation))
-4. [Optimizations]([#subheading-4](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#optimizations))
-5. [Limitations]([#subheading-5](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#limitations))
+1. [Scope](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#scope)
+2. [Functional Requirements](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#functional-requirements)
+3. [Representation](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#representation)
+4. [Optimizations](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#optimizations)
+5. [Limitations](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#limitations)
 
 ## Scope
 
