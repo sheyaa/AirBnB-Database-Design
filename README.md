@@ -1,12 +1,16 @@
-# AirBnB Database Design
-
-# Design Document
+# AirBnB Database Design Document
 
 By Yodd Mena
 and Mauricio Gutierrez
 
 Video overview: <https://youtu.be/xiEOWiWo_dU>
 
+1. [Scope](#sub-heading-1)
+2. [Functional Requirements](#sub-heading-2)
+3. [Representation](#sub-heading-3)
+4. [Optomizations](#sub-heading-4)
+5. [Limitations](#sub-heading-5)
+   
 ## Scope
 
 * The purpose of the database is to manage an AirBnB booking system efficiently by tracking guest information, host details, property amenities, and transaction records. It records bookings, ensuring no double bookings by tracking check-in and check-out dates for each property. By providing real-time availability for properties and enabling users to query for open dates, the database helps streamline AirBnB operations, manage reservations, and optimize the guest experience. It also facilitates smooth financial transactions and maintains review data to improve property offerings.
