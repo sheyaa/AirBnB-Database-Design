@@ -5,13 +5,12 @@ and Mauricio Gutierrez
 
 Video overview: <https://youtu.be/xiEOWiWo_dU>
 
-1. [Scope](#subheading-1)
-2. [Functional Requirements](#subheading-2)
-3. [Representation](#subheading-3)
-4. [Optimizations](#subheading-4)
-5. [Limitations](#subheading-5)
+1. [Scope]([#subheading-1](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#scope))
+2. [Functional Requirements]([#subheading-2](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#functional-requirements))
+3. [Representation]([#subheading-3](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#representation))
+4. [Optimizations]([#subheading-4](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#optimizations))
+5. [Limitations]([#subheading-5](https://github.com/sheyaa/AirBnB-Database-Design/edit/main/README.md#limitations))
 
-<div id=subheading-1'/>  
 ## Scope
 
 * The purpose of the database is to manage an AirBnB booking system efficiently by tracking guest information, host details, property amenities, and transaction records. It records bookings, ensuring no double bookings by tracking check-in and check-out dates for each property. By providing real-time availability for properties and enabling users to query for open dates, the database helps streamline AirBnB operations, manage reservations, and optimize the guest experience. It also facilitates smooth financial transactions and maintains review data to improve property offerings.
@@ -34,7 +33,6 @@ Reviews: Guest feedback and ratings for properties they have stayed at.
 
 The scope of the database is focused on managing the key elements related to property rentals, such as property listings, guests, hosts, transactions, reviews, and bookings. It does not include external factors like weather conditions or local crime rates. While these elements may influence a guest's decision to book a property, they are not directly tracked or managed within the system. The database is specifically designed to handle internal operations and interactions within the rental ecosystem, leaving broader environmental or safety metrics outside its scope.
 
-<div id=subheading-2'/>
 ## Functional Requirements
 
 With the database, a user should be able to:
@@ -53,7 +51,7 @@ A user can extend the use of the database by
 * comparing multiple listings based on various criteria such as price, rating, and amenities, to evaluate which properties offer the best value or experience.
 * filtering a desired price range for listings, dates, bedrooms, beds, bathrooms and amenities.
 
-<div id=subheading-3'/>
+
 ## Representation
 
 ### Entities
@@ -198,7 +196,7 @@ The `bookings` table includes:
 
 ![AirBnB Entity Relationship Diagram](AirBnB-3.jpeg)
 
-<div id=subheading-4'/>
+
 ## Optimizations
 
 #### Views
@@ -235,7 +233,7 @@ Creating an index for property location search:
 
 * This creates an index called `city_name_search` on the `property` table, focusing on the `city` and `state` columns. It improves search efficiency when properties are being queried based on their city and state, making location-based queries faster.
 
-<div id=subheading-5'/>
+
 ## Limitations
 
 Some of the limitations of our design include:
